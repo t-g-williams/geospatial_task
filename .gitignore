@@ -1,0 +1,7 @@
+.git/**
+venv/**
+scratch/**
+*.ini
+.ipynb_checkpoints/**
+**/__pycache__/**
+data/landcover/C3S-LC-L4-LCCS-Map-300m-P1Y-2020-v2.1.1.nc

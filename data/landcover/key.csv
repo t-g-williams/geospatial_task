@@ -1,0 +1,25 @@
+lccs_class,name,group
+0,No data,NA
+10,Cropland,crop
+20,Cropland (irrigated),crop_irrig
+30,Mosaic (cropland),mosaic
+40,Mosaic (natural vegetation),mosaic
+50,"Tree cover (broadleaf, evergreen)",trees
+60,"Tree cover (broadleaf, deciduous)",trees
+70,"Tree cover (needle, evergreen)",trees
+80,"Tree cover (needle, deciduous)",trees
+90,Tree cover (mixed),trees
+100,Mosaic (tree and shrub),mosaic
+110,Mosaic (herbaceous),mosaic
+120,Shrubland,shrub
+130,Grassland,grass
+140,Lichens and mosses,other
+150,Sparse vegetation,sparse
+160,"Tree cover (flooded, fresh or brackish)",flooded
+170,"Tree cover (flooded, saline)",flooded
+180,Shrub or herbaceous (flooded),flooded
+190,Urban,urban
+200,Bare,other
+210,Water,other
+220,Snow or ice,other
+NA,NA,NA

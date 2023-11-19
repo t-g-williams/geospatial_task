@@ -1,0 +1,1180 @@
+id,lccs_class,SOC_stock,lc_full,lc_group
+1,120,75.8108139038086,Shrubland,shrub
+2,120,52.7475814819336,Shrubland,shrub
+3,120,50.1521110534668,Shrubland,shrub
+59,50,72.8955001831055,"Tree cover (broadleaf, evergreen)",trees
+60,130,75.5193939208984,Grassland,grass
+118,80,60.1259994506836,"Tree cover (needle, deciduous)",trees
+119,130,70.683952331543,Grassland,grass
+177,50,80.8583374023438,"Tree cover (broadleaf, evergreen)",trees
+236,200,72.6221694946289,Bare,other
+237,130,69.8823394775391,Grassland,grass
+239,210,13.67405128479,Water,other
+296,130,67.2766723632813,Grassland,grass
+297,130,71.7932281494141,Grassland,grass
+299,130,83.3814086914063,Grassland,grass
+353,130,78.53515625,Grassland,grass
+354,130,81.3486633300781,Grassland,grass
+355,130,85.1335144042969,Grassland,grass
+356,130,91.4260635375977,Grassland,grass
+357,50,88.2365493774414,"Tree cover (broadleaf, evergreen)",trees
+358,130,81.6928024291992,Grassland,grass
+359,130,88.8864898681641,Grassland,grass
+360,130,79.9857635498047,Grassland,grass
+410,120,81.1294021606445,Shrubland,shrub
+411,50,93.9790878295898,"Tree cover (broadleaf, evergreen)",trees
+412,130,93.770751953125,Grassland,grass
+413,50,99.1834182739258,"Tree cover (broadleaf, evergreen)",trees
+414,50,92.5065460205078,"Tree cover (broadleaf, evergreen)",trees
+415,50,89.0325317382813,"Tree cover (broadleaf, evergreen)",trees
+416,50,90.7634506225586,"Tree cover (broadleaf, evergreen)",trees
+417,130,98.6898956298828,Grassland,grass
+418,130,85.1572875976563,Grassland,grass
+419,130,60.6565284729004,Grassland,grass
+469,130,82.8160705566406,Grassland,grass
+470,130,93.1129608154297,Grassland,grass
+471,130,88.2008590698242,Grassland,grass
+472,130,83.5773391723633,Grassland,grass
+473,130,84.4189453125,Grassland,grass
+474,130,89.1004333496094,Grassland,grass
+475,130,85.0238800048828,Grassland,grass
+476,130,88.5993576049805,Grassland,grass
+477,130,86.8983535766602,Grassland,grass
+478,210,52.363151550293,Water,other
+479,50,72.8845062255859,"Tree cover (broadleaf, evergreen)",trees
+528,50,100.359008789063,"Tree cover (broadleaf, evergreen)",trees
+529,210,63.6406555175781,Water,other
+530,130,84.1477127075195,Grassland,grass
+531,120,80.7100524902344,Shrubland,shrub
+532,130,85.9626007080078,Grassland,grass
+533,130,84.2262191772461,Grassland,grass
+534,130,84.7974624633789,Grassland,grass
+535,130,83.6290588378906,Grassland,grass
+536,130,90.7725219726563,Grassland,grass
+537,50,94.1648483276367,"Tree cover (broadleaf, evergreen)",trees
+538,50,85.3766021728516,"Tree cover (broadleaf, evergreen)",trees
+539,210,23.1961193084717,Water,other
+587,130,66.8926010131836,Grassland,grass
+588,130,104.439086914063,Grassland,grass
+589,50,102.584678649902,"Tree cover (broadleaf, evergreen)",trees
+590,130,88.6470108032227,Grassland,grass
+591,130,83.4721221923828,Grassland,grass
+592,130,93.3548431396484,Grassland,grass
+593,130,91.0912399291992,Grassland,grass
+594,130,90.4961166381836,Grassland,grass
+595,130,92.0003128051758,Grassland,grass
+596,130,94.5946350097656,Grassland,grass
+597,130,86.2041015625,Grassland,grass
+646,50,94.3796539306641,"Tree cover (broadleaf, evergreen)",trees
+647,50,112.019149780273,"Tree cover (broadleaf, evergreen)",trees
+648,130,108.467742919922,Grassland,grass
+649,130,87.2892227172852,Grassland,grass
+650,50,88.7500762939453,"Tree cover (broadleaf, evergreen)",trees
+651,130,84.0671005249024,Grassland,grass
+652,130,90.4664611816406,Grassland,grass
+653,130,88.9629135131836,Grassland,grass
+654,130,93.7247009277344,Grassland,grass
+655,130,99.6002807617188,Grassland,grass
+656,130,68.1305541992188,Grassland,grass
+704,50,90.8270645141602,"Tree cover (broadleaf, evergreen)",trees
+705,130,101.616607666016,Grassland,grass
+706,50,112.341201782227,"Tree cover (broadleaf, evergreen)",trees
+707,100,97.0758438110352,Mosaic (tree and shrub),mosaic
+708,130,92.3925704956055,Grassland,grass
+709,130,84.1703033447266,Grassland,grass
+710,130,81.541877746582,Grassland,grass
+711,130,86.1186904907227,Grassland,grass
+712,130,68.2001190185547,Grassland,grass
+713,130,89.2193832397461,Grassland,grass
+714,130,70.8017425537109,Grassland,grass
+764,130,85.1659469604492,Grassland,grass
+765,130,89.2374572753906,Grassland,grass
+766,130,84.4951400756836,Grassland,grass
+767,130,85.298713684082,Grassland,grass
+768,130,86.2633514404297,Grassland,grass
+769,130,83.8676986694336,Grassland,grass
+770,130,72.3278121948242,Grassland,grass
+772,130,80.1026611328125,Grassland,grass
+822,130,81.3146438598633,Grassland,grass
+823,130,82.660514831543,Grassland,grass
+824,130,78.8490524291992,Grassland,grass
+825,130,80.4531555175781,Grassland,grass
+826,130,85.3391723632813,Grassland,grass
+827,130,84.3832244873047,Grassland,grass
+828,130,86.3751068115234,Grassland,grass
+829,130,86.6324081420899,Grassland,grass
+881,130,87.435546875,Grassland,grass
+882,130,78.0590057373047,Grassland,grass
+883,130,80.2683029174805,Grassland,grass
+884,130,81.32470703125,Grassland,grass
+885,130,81.1564559936524,Grassland,grass
+886,130,86.3128509521484,Grassland,grass
+887,130,85.9142990112305,Grassland,grass
+940,130,82.7034530639648,Grassland,grass
+941,130,73.7780227661133,Grassland,grass
+942,130,82.6354904174805,Grassland,grass
+943,130,67.9558944702148,Grassland,grass
+944,130,82.1123886108398,Grassland,grass
+945,130,82.6671981811523,Grassland,grass
+946,130,87.096549987793,Grassland,grass
+999,130,83.8621597290039,Grassland,grass
+1000,130,76.6111145019531,Grassland,grass
+1001,130,60.3207397460938,Grassland,grass
+1002,130,70.8648834228516,Grassland,grass
+1003,130,73.3608551025391,Grassland,grass
+1004,130,80.9220352172852,Grassland,grass
+1005,130,81.1895599365234,Grassland,grass
+1057,120,80.8743438720703,Shrubland,shrub
+1058,130,78.6219940185547,Grassland,grass
+1061,130,65.4865417480469,Grassland,grass
+1062,130,82.2347793579102,Grassland,grass
+1063,130,87.1116485595703,Grassland,grass
+1064,130,91.7388229370117,Grassland,grass
+1116,50,72.4698104858399,"Tree cover (broadleaf, evergreen)",trees
+1119,130,54.3296051025391,Grassland,grass
+1120,130,86.2554702758789,Grassland,grass
+1121,130,85.1437911987305,Grassland,grass
+1122,130,64.3153762817383,Grassland,grass
+1175,130,81.5749893188477,Grassland,grass
+1177,130,75.4339218139648,Grassland,grass
+1178,130,85.8988571166992,Grassland,grass
+1179,130,88.7363662719727,Grassland,grass
+1180,210,50.0207710266113,Water,other
+1187,50,88.5030059814453,"Tree cover (broadleaf, evergreen)",trees
+1234,130,85.0636978149414,Grassland,grass
+1235,130,57.2651138305664,Grassland,grass
+1236,130,83.0249633789063,Grassland,grass
+1237,130,83.1225433349609,Grassland,grass
+1238,210,36.7569007873535,Water,other
+1245,50,88.6782684326172,"Tree cover (broadleaf, evergreen)",trees
+1246,120,93.5353393554688,Shrubland,shrub
+1293,130,84.6847686767578,Grassland,grass
+1294,130,83.9287643432617,Grassland,grass
+1295,130,84.0271301269531,Grassland,grass
+1296,130,50.6775550842285,Grassland,grass
+1304,50,104.432960510254,"Tree cover (broadleaf, evergreen)",trees
+1306,50,93.4397048950195,"Tree cover (broadleaf, evergreen)",trees
+1351,130,85.3187561035156,Grassland,grass
+1352,130,87.2789535522461,Grassland,grass
+1353,130,59.7646217346192,Grassland,grass
+1354,190,13.7670040130615,Urban,urban
+1362,50,101.565971374512,"Tree cover (broadleaf, evergreen)",trees
+1363,50,108.088836669922,"Tree cover (broadleaf, evergreen)",trees
+1411,190,65.414665222168,Urban,urban
+1412,190,6.55144882202148,Urban,urban
+1413,190,6.5766453742981,Urban,urban
+1415,130,61.4329643249512,Grassland,grass
+1420,50,104.462188720703,"Tree cover (broadleaf, evergreen)",trees
+1421,50,109.114891052246,"Tree cover (broadleaf, evergreen)",trees
+1422,130,97.2668151855469,Grassland,grass
+1423,130,83.6620407104492,Grassland,grass
+1468,50,100.722267150879,"Tree cover (broadleaf, evergreen)",trees
+1472,190,34.1274185180664,Urban,urban
+1473,130,85.1741943359375,Grassland,grass
+1474,130,92.794677734375,Grassland,grass
+1475,50,101.606399536133,"Tree cover (broadleaf, evergreen)",trees
+1476,210,52.2449493408203,Water,other
+1479,50,107.616058349609,"Tree cover (broadleaf, evergreen)",trees
+1480,50,112.095855712891,"Tree cover (broadleaf, evergreen)",trees
+1481,50,96.352653503418,"Tree cover (broadleaf, evergreen)",trees
+1528,130,37.7194213867188,Grassland,grass
+1530,130,74.0422897338867,Grassland,grass
+1531,130,90.9379501342774,Grassland,grass
+1532,130,88.577995300293,Grassland,grass
+1533,50,91.7865447998047,"Tree cover (broadleaf, evergreen)",trees
+1534,210,46.3659515380859,Water,other
+1537,50,101.483276367188,"Tree cover (broadleaf, evergreen)",trees
+1538,50,106.163352966309,"Tree cover (broadleaf, evergreen)",trees
+1539,130,104.075256347656,Grassland,grass
+1540,210,53.5499839782715,Water,other
+1585,130,90.8552322387695,Grassland,grass
+1586,130,70.2442092895508,Grassland,grass
+1587,130,87.9332580566406,Grassland,grass
+1588,130,81.5383224487305,Grassland,grass
+1589,130,90.8031387329102,Grassland,grass
+1590,130,85.7043228149414,Grassland,grass
+1591,130,88.5712890625,Grassland,grass
+1592,130,76.3336715698242,Grassland,grass
+1593,130,68.3762969970703,Grassland,grass
+1594,130,89.0151672363281,Grassland,grass
+1595,130,88.0149688720703,Grassland,grass
+1596,50,106.800300598145,"Tree cover (broadleaf, evergreen)",trees
+1597,50,102.30379486084,"Tree cover (broadleaf, evergreen)",trees
+1644,130,91.6857986450195,Grassland,grass
+1645,130,87.0591659545899,Grassland,grass
+1646,130,87.7956085205078,Grassland,grass
+1647,130,86.0540618896484,Grassland,grass
+1648,130,89.0017852783203,Grassland,grass
+1649,130,90.8227233886719,Grassland,grass
+1650,130,91.2307586669922,Grassland,grass
+1651,130,89.439567565918,Grassland,grass
+1652,130,91.2415390014649,Grassland,grass
+1653,130,91.522216796875,Grassland,grass
+1654,130,100.847778320313,Grassland,grass
+1655,50,109.265533447266,"Tree cover (broadleaf, evergreen)",trees
+1702,130,101.324890136719,Grassland,grass
+1703,130,97.8917999267578,Grassland,grass
+1704,130,90.8731384277344,Grassland,grass
+1705,130,89.1386795043945,Grassland,grass
+1706,130,87.629997253418,Grassland,grass
+1707,130,63.1222686767578,Grassland,grass
+1708,130,89.4285507202149,Grassland,grass
+1709,130,93.0181503295898,Grassland,grass
+1710,130,91.4597473144531,Grassland,grass
+1711,130,95.8868026733398,Grassland,grass
+1712,130,100.137145996094,Grassland,grass
+1713,130,97.6355972290039,Grassland,grass
+1714,130,93.6953430175781,Grassland,grass
+1761,130,96.8311233520508,Grassland,grass
+1762,130,93.1184768676758,Grassland,grass
+1763,130,86.5098648071289,Grassland,grass
+1764,130,82.9936141967774,Grassland,grass
+1765,130,84.0226211547852,Grassland,grass
+1766,130,95.0484771728516,Grassland,grass
+1767,130,94.3508529663086,Grassland,grass
+1768,130,96.6410598754883,Grassland,grass
+1769,130,99.6515884399414,Grassland,grass
+1770,130,101.387283325195,Grassland,grass
+1771,50,111.18953704834,"Tree cover (broadleaf, evergreen)",trees
+1772,130,87.4110107421875,Grassland,grass
+1819,130,93.3354568481445,Grassland,grass
+1820,130,89.9574203491211,Grassland,grass
+1821,130,89.3315963745117,Grassland,grass
+1822,130,91.4956436157227,Grassland,grass
+1823,130,93.9495239257812,Grassland,grass
+1824,130,100.02033996582,Grassland,grass
+1825,130,96.9245300292969,Grassland,grass
+1826,130,97.2165145874023,Grassland,grass
+1827,130,99.6004333496094,Grassland,grass
+1828,130,96.9072723388672,Grassland,grass
+1829,130,105.169204711914,Grassland,grass
+1830,130,93.1975250244141,Grassland,grass
+1831,210,35.8986625671387,Water,other
+1852,50,110.974853515625,"Tree cover (broadleaf, evergreen)",trees
+1853,50,113.052459716797,"Tree cover (broadleaf, evergreen)",trees
+1855,120,93.6930236816406,Shrubland,shrub
+1877,130,96.8454513549805,Grassland,grass
+1878,130,87.207275390625,Grassland,grass
+1879,130,93.8316192626953,Grassland,grass
+1880,130,94.1155853271484,Grassland,grass
+1881,130,86.3379364013672,Grassland,grass
+1882,130,87.6622314453125,Grassland,grass
+1883,130,98.7756805419922,Grassland,grass
+1884,130,98.6625442504883,Grassland,grass
+1885,130,98.0974044799805,Grassland,grass
+1886,130,95.2815551757813,Grassland,grass
+1887,130,99.5303115844727,Grassland,grass
+1888,50,110.807502746582,"Tree cover (broadleaf, evergreen)",trees
+1889,130,108.805557250977,Grassland,grass
+1890,130,72.6511611938477,Grassland,grass
+1891,210,53.3965644836426,Water,other
+1892,130,66.3917846679688,Grassland,grass
+1906,50,107.861228942871,"Tree cover (broadleaf, evergreen)",trees
+1907,50,103.485870361328,"Tree cover (broadleaf, evergreen)",trees
+1908,50,109.351959228516,"Tree cover (broadleaf, evergreen)",trees
+1909,50,109.055557250977,"Tree cover (broadleaf, evergreen)",trees
+1910,50,120.948173522949,"Tree cover (broadleaf, evergreen)",trees
+1911,50,114.128021240234,"Tree cover (broadleaf, evergreen)",trees
+1912,120,108.909965515137,Shrubland,shrub
+1913,120,107.50129699707,Shrubland,shrub
+1936,130,83.2786865234375,Grassland,grass
+1937,130,94.4785614013672,Grassland,grass
+1938,130,98.839958190918,Grassland,grass
+1939,130,86.656135559082,Grassland,grass
+1940,130,64.5690383911133,Grassland,grass
+1941,130,98.6676712036133,Grassland,grass
+1942,130,98.8408660888672,Grassland,grass
+1943,130,96.4063568115234,Grassland,grass
+1944,130,97.5906066894531,Grassland,grass
+1945,130,94.2012939453125,Grassland,grass
+1946,50,111.357162475586,"Tree cover (broadleaf, evergreen)",trees
+1947,130,103.682525634766,Grassland,grass
+1948,130,108.188407897949,Grassland,grass
+1949,130,109.456809997559,Grassland,grass
+1950,120,101.419013977051,Shrubland,shrub
+1951,130,95.9618453979492,Grassland,grass
+1952,130,93.3064727783203,Grassland,grass
+1964,50,106.79012298584,"Tree cover (broadleaf, evergreen)",trees
+1965,50,112.379096984863,"Tree cover (broadleaf, evergreen)",trees
+1966,50,116.443878173828,"Tree cover (broadleaf, evergreen)",trees
+1967,50,125.819915771484,"Tree cover (broadleaf, evergreen)",trees
+1968,50,126.952651977539,"Tree cover (broadleaf, evergreen)",trees
+1969,50,113.329010009766,"Tree cover (broadleaf, evergreen)",trees
+1970,130,106.011276245117,Grassland,grass
+1971,130,93.7745361328125,Grassland,grass
+,,35.5172424316406,,
+1993,130,91.3334884643555,Grassland,grass
+1994,130,97.3117904663086,Grassland,grass
+1995,50,102.933654785156,"Tree cover (broadleaf, evergreen)",trees
+1996,130,100.677452087402,Grassland,grass
+1997,130,97.8301086425781,Grassland,grass
+1998,130,98.1505889892578,Grassland,grass
+1999,130,100.680503845215,Grassland,grass
+2000,130,93.5703048706055,Grassland,grass
+2001,130,98.0231704711914,Grassland,grass
+2002,130,98.6243133544922,Grassland,grass
+2003,130,97.3876266479492,Grassland,grass
+2004,130,103.210327148438,Grassland,grass
+2005,50,104.286262512207,"Tree cover (broadleaf, evergreen)",trees
+2006,50,107.227416992188,"Tree cover (broadleaf, evergreen)",trees
+2007,50,117.243103027344,"Tree cover (broadleaf, evergreen)",trees
+2008,130,111.11759185791,Grassland,grass
+2009,130,103.777458190918,Grassland,grass
+2010,130,103.38703918457,Grassland,grass
+2011,130,101.825950622559,Grassland,grass
+2012,130,99.3650970458985,Grassland,grass
+2013,130,91.4354248046875,Grassland,grass
+2021,50,102.580062866211,"Tree cover (broadleaf, evergreen)",trees
+2022,50,107.550270080566,"Tree cover (broadleaf, evergreen)",trees
+2023,50,117.056137084961,"Tree cover (broadleaf, evergreen)",trees
+2024,50,123.473342895508,"Tree cover (broadleaf, evergreen)",trees
+2025,50,125.465423583984,"Tree cover (broadleaf, evergreen)",trees
+2026,130,119.254295349121,Grassland,grass
+2027,130,104.229705810547,Grassland,grass
+2028,130,102.747200012207,Grassland,grass
+2052,130,93.2113952636719,Grassland,grass
+2053,130,108.978485107422,Grassland,grass
+2054,50,114.641334533691,"Tree cover (broadleaf, evergreen)",trees
+2055,130,98.4098510742188,Grassland,grass
+2056,130,94.3241500854492,Grassland,grass
+2057,130,104.517875671387,Grassland,grass
+2058,130,99.5032043457031,Grassland,grass
+2059,130,95.8386840820313,Grassland,grass
+2060,130,97.7753677368164,Grassland,grass
+2061,130,91.4650497436523,Grassland,grass
+2062,50,99.2246017456055,"Tree cover (broadleaf, evergreen)",trees
+2063,50,112.206062316895,"Tree cover (broadleaf, evergreen)",trees
+2064,130,111.156440734863,Grassland,grass
+2065,130,106.799110412598,Grassland,grass
+2066,130,87.5696792602539,Grassland,grass
+2067,130,86.3083877563477,Grassland,grass
+2068,50,90.5254135131836,"Tree cover (broadleaf, evergreen)",trees
+2069,50,100.273872375488,"Tree cover (broadleaf, evergreen)",trees
+2070,130,101.125663757324,Grassland,grass
+2071,130,91.503791809082,Grassland,grass
+2072,130,94.1488418579102,Grassland,grass
+2073,130,93.7373199462891,Grassland,grass
+2076,130,93.494270324707,Grassland,grass
+2077,50,95.7663650512695,"Tree cover (broadleaf, evergreen)",trees
+2078,50,103.575149536133,"Tree cover (broadleaf, evergreen)",trees
+2079,50,102.602821350098,"Tree cover (broadleaf, evergreen)",trees
+2080,50,112.038139343262,"Tree cover (broadleaf, evergreen)",trees
+2081,50,118.250907897949,"Tree cover (broadleaf, evergreen)",trees
+2082,50,124.144218444824,"Tree cover (broadleaf, evergreen)",trees
+2083,50,121.188743591309,"Tree cover (broadleaf, evergreen)",trees
+2084,130,107.700477600098,Grassland,grass
+2085,50,102.659355163574,"Tree cover (broadleaf, evergreen)",trees
+2086,120,93.6679534912109,Shrubland,shrub
+2110,130,82.9303512573242,Grassland,grass
+2111,130,106.25902557373,Grassland,grass
+2112,130,105.283531188965,Grassland,grass
+2113,130,96.7814025878906,Grassland,grass
+2114,130,101.861312866211,Grassland,grass
+2115,130,102.640464782715,Grassland,grass
+2116,130,95.0845947265625,Grassland,grass
+2117,130,94.4269332885742,Grassland,grass
+2118,130,97.5185317993164,Grassland,grass
+2119,130,93.2612838745117,Grassland,grass
+2120,130,97.2301635742188,Grassland,grass
+2121,50,109.249824523926,"Tree cover (broadleaf, evergreen)",trees
+2122,130,112.838638305664,Grassland,grass
+2123,130,61.2445487976074,Grassland,grass
+2124,210,51.8485870361328,Water,other
+2125,50,93.5474243164063,"Tree cover (broadleaf, evergreen)",trees
+2126,50,106.276626586914,"Tree cover (broadleaf, evergreen)",trees
+2127,50,97.4186401367188,"Tree cover (broadleaf, evergreen)",trees
+2128,80,94.0812454223633,"Tree cover (needle, deciduous)",trees
+2129,80,94.4246292114258,"Tree cover (needle, deciduous)",trees
+2130,50,95.6255569458008,"Tree cover (broadleaf, evergreen)",trees
+2131,130,97.3061370849609,Grassland,grass
+2132,130,98.8809127807617,Grassland,grass
+2133,50,101.092086791992,"Tree cover (broadleaf, evergreen)",trees
+2134,50,103.86368560791,"Tree cover (broadleaf, evergreen)",trees
+2135,50,102.058387756348,"Tree cover (broadleaf, evergreen)",trees
+2136,50,109.786552429199,"Tree cover (broadleaf, evergreen)",trees
+2137,50,109.729339599609,"Tree cover (broadleaf, evergreen)",trees
+2138,50,110.685752868652,"Tree cover (broadleaf, evergreen)",trees
+2139,50,117.909812927246,"Tree cover (broadleaf, evergreen)",trees
+2140,50,119.658966064453,"Tree cover (broadleaf, evergreen)",trees
+2141,130,106.753959655762,Grassland,grass
+2142,130,105.615562438965,Grassland,grass
+2143,130,102.982704162598,Grassland,grass
+2144,120,85.1304244995117,Shrubland,shrub
+2167,130,108.549453735352,Grassland,grass
+2168,50,107.164115905762,"Tree cover (broadleaf, evergreen)",trees
+2169,50,115.740173339844,"Tree cover (broadleaf, evergreen)",trees
+2170,130,101.691520690918,Grassland,grass
+2171,130,100.435539245605,Grassland,grass
+2172,130,99.7497177124023,Grassland,grass
+2173,130,95.0908889770508,Grassland,grass
+2174,130,95.6058120727539,Grassland,grass
+2175,130,93.7061614990234,Grassland,grass
+2176,130,91.4252624511719,Grassland,grass
+2177,130,94.7104873657227,Grassland,grass
+2178,130,92.5359649658203,Grassland,grass
+2179,130,104.530921936035,Grassland,grass
+2180,50,106.081993103027,"Tree cover (broadleaf, evergreen)",trees
+2181,130,92.7653732299805,Grassland,grass
+2182,130,92.3537063598633,Grassland,grass
+2183,210,55.8901977539063,Water,other
+2184,50,95.9248275756836,"Tree cover (broadleaf, evergreen)",trees
+2185,50,94.9051055908203,"Tree cover (broadleaf, evergreen)",trees
+2186,80,105.414031982422,"Tree cover (needle, deciduous)",trees
+2187,50,97.7120819091797,"Tree cover (broadleaf, evergreen)",trees
+2188,50,97.5064163208008,"Tree cover (broadleaf, evergreen)",trees
+2189,50,99.3156661987305,"Tree cover (broadleaf, evergreen)",trees
+2190,50,101.674583435059,"Tree cover (broadleaf, evergreen)",trees
+2191,50,101.887161254883,"Tree cover (broadleaf, evergreen)",trees
+2192,50,102.592315673828,"Tree cover (broadleaf, evergreen)",trees
+2193,50,106.313903808594,"Tree cover (broadleaf, evergreen)",trees
+2194,50,110.645446777344,"Tree cover (broadleaf, evergreen)",trees
+2195,50,113.830375671387,"Tree cover (broadleaf, evergreen)",trees
+2196,50,117.804412841797,"Tree cover (broadleaf, evergreen)",trees
+2197,50,111.410675048828,"Tree cover (broadleaf, evergreen)",trees
+2198,50,108.248672485352,"Tree cover (broadleaf, evergreen)",trees
+2199,130,111.746047973633,Grassland,grass
+2200,130,106.447189331055,Grassland,grass
+2201,120,97.8827133178711,Shrubland,shrub
+2202,120,76.3151779174805,Shrubland,shrub
+2225,130,107.702621459961,Grassland,grass
+2226,50,108.701469421387,"Tree cover (broadleaf, evergreen)",trees
+2227,130,109.504051208496,Grassland,grass
+2228,130,102.060882568359,Grassland,grass
+2229,130,94.5679626464844,Grassland,grass
+2230,130,96.2563247680664,Grassland,grass
+2231,130,102.271621704102,Grassland,grass
+2232,50,106.074142456055,"Tree cover (broadleaf, evergreen)",trees
+2233,130,95.265739440918,Grassland,grass
+2234,50,93.1850662231445,"Tree cover (broadleaf, evergreen)",trees
+2235,80,94.0778884887695,"Tree cover (needle, deciduous)",trees
+2236,130,95.4391326904297,Grassland,grass
+2237,130,94.3151550292969,Grassland,grass
+2238,130,92.1191635131836,Grassland,grass
+2239,130,90.8035125732422,Grassland,grass
+2240,130,95.6366882324219,Grassland,grass
+2241,130,89.1551132202149,Grassland,grass
+2242,130,89.0652694702149,Grassland,grass
+2243,50,96.5232162475586,"Tree cover (broadleaf, evergreen)",trees
+2244,80,95.644416809082,"Tree cover (needle, deciduous)",trees
+2245,50,88.2502059936524,"Tree cover (broadleaf, evergreen)",trees
+2246,50,101.011962890625,"Tree cover (broadleaf, evergreen)",trees
+2247,50,96.0000839233398,"Tree cover (broadleaf, evergreen)",trees
+2248,50,97.5114440917969,"Tree cover (broadleaf, evergreen)",trees
+2249,50,105.60514831543,"Tree cover (broadleaf, evergreen)",trees
+2250,50,105.467277526855,"Tree cover (broadleaf, evergreen)",trees
+2251,50,113.526306152344,"Tree cover (broadleaf, evergreen)",trees
+2252,130,117.073638916016,Grassland,grass
+2253,130,115.69181060791,Grassland,grass
+2254,130,114.752281188965,Grassland,grass
+2255,130,100.782791137695,Grassland,grass
+2256,130,95.48193359375,Grassland,grass
+2257,80,95.5964660644531,"Tree cover (needle, deciduous)",trees
+2258,80,93.5927963256836,"Tree cover (needle, deciduous)",trees
+2259,120,92.3442153930664,Shrubland,shrub
+2260,130,88.0798110961914,Grassland,grass
+2282,50,113.055198669434,"Tree cover (broadleaf, evergreen)",trees
+2283,50,117.365615844727,"Tree cover (broadleaf, evergreen)",trees
+2284,130,109.274024963379,Grassland,grass
+2285,130,102.536598205566,Grassland,grass
+2286,130,98.2397003173828,Grassland,grass
+2287,130,92.258659362793,Grassland,grass
+2288,130,93.0151443481445,Grassland,grass
+2289,130,105.907043457031,Grassland,grass
+2290,50,111.898010253906,"Tree cover (broadleaf, evergreen)",trees
+2291,50,98.9084625244141,"Tree cover (broadleaf, evergreen)",trees
+2292,130,90.4751892089844,Grassland,grass
+2293,130,84.689208984375,Grassland,grass
+2294,130,89.9664306640625,Grassland,grass
+2295,80,92.2496109008789,"Tree cover (needle, deciduous)",trees
+2296,130,84.8529281616211,Grassland,grass
+2297,130,97.0087432861328,Grassland,grass
+2298,130,95.2956314086914,Grassland,grass
+2299,130,93.5411224365234,Grassland,grass
+2300,50,81.3899765014648,"Tree cover (broadleaf, evergreen)",trees
+2301,80,101.299606323242,"Tree cover (needle, deciduous)",trees
+2302,130,90.6423110961914,Grassland,grass
+2303,130,96.3047790527344,Grassland,grass
+2304,50,102.025466918945,"Tree cover (broadleaf, evergreen)",trees
+2305,50,94.1348495483398,"Tree cover (broadleaf, evergreen)",trees
+2306,50,103.512535095215,"Tree cover (broadleaf, evergreen)",trees
+2307,50,116.627189636231,"Tree cover (broadleaf, evergreen)",trees
+2308,50,114.275459289551,"Tree cover (broadleaf, evergreen)",trees
+2309,130,115.014320373535,Grassland,grass
+2310,130,114.55558013916,Grassland,grass
+2311,130,100.935806274414,Grassland,grass
+2312,130,95.6859893798828,Grassland,grass
+2313,130,93.9402770996094,Grassland,grass
+2314,130,93.2893295288086,Grassland,grass
+2315,130,100.936012268066,Grassland,grass
+2316,130,96.9652252197266,Grassland,grass
+2317,130,96.9715042114258,Grassland,grass
+2318,130,80.6278610229492,Grassland,grass
+2340,50,112.941619873047,"Tree cover (broadleaf, evergreen)",trees
+2341,50,118.139686584473,"Tree cover (broadleaf, evergreen)",trees
+2342,130,104.267990112305,Grassland,grass
+2343,130,94.6914367675781,Grassland,grass
+2344,130,96.4826431274414,Grassland,grass
+2345,130,96.1229019165039,Grassland,grass
+2346,130,99.1863861083984,Grassland,grass
+2347,130,103.641830444336,Grassland,grass
+2348,130,110.247520446777,Grassland,grass
+2349,50,108.684188842773,"Tree cover (broadleaf, evergreen)",trees
+2350,50,97.7071762084961,"Tree cover (broadleaf, evergreen)",trees
+2351,130,90.5851745605469,Grassland,grass
+2352,130,92.2933502197266,Grassland,grass
+2353,130,95.4999618530274,Grassland,grass
+2354,130,92.9583740234375,Grassland,grass
+2355,130,93.7681198120117,Grassland,grass
+2356,130,97.0970153808594,Grassland,grass
+2357,130,97.7146911621094,Grassland,grass
+2358,130,95.4145202636719,Grassland,grass
+2359,80,93.838134765625,"Tree cover (needle, deciduous)",trees
+2360,50,92.6453170776367,"Tree cover (broadleaf, evergreen)",trees
+2361,50,104.165245056152,"Tree cover (broadleaf, evergreen)",trees
+2362,50,100.956176757813,"Tree cover (broadleaf, evergreen)",trees
+2363,50,101.847442626953,"Tree cover (broadleaf, evergreen)",trees
+2364,50,107.267631530762,"Tree cover (broadleaf, evergreen)",trees
+2365,50,119.707229614258,"Tree cover (broadleaf, evergreen)",trees
+2366,50,110.923767089844,"Tree cover (broadleaf, evergreen)",trees
+2367,130,112.156311035156,Grassland,grass
+2368,130,113.003189086914,Grassland,grass
+2369,130,99.8087615966797,Grassland,grass
+2370,130,87.9580917358399,Grassland,grass
+2371,130,89.2404479980469,Grassland,grass
+2372,130,87.1725997924805,Grassland,grass
+2373,130,91.0506439208984,Grassland,grass
+2374,130,95.4010238647461,Grassland,grass
+2375,130,92.2238693237305,Grassland,grass
+2376,130,63.0725708007813,Grassland,grass
+2398,130,110.237510681152,Grassland,grass
+2399,50,106.145606994629,"Tree cover (broadleaf, evergreen)",trees
+2400,130,100.468101501465,Grassland,grass
+2401,130,99.3810195922852,Grassland,grass
+2402,130,99.5904312133789,Grassland,grass
+2403,130,99.7630310058594,Grassland,grass
+2404,130,94.1869812011719,Grassland,grass
+2405,130,95.3546295166016,Grassland,grass
+2406,50,107.265640258789,"Tree cover (broadleaf, evergreen)",trees
+2407,50,120.178756713867,"Tree cover (broadleaf, evergreen)",trees
+2408,50,100.972183227539,"Tree cover (broadleaf, evergreen)",trees
+2409,130,95.6952743530274,Grassland,grass
+2410,130,93.7052001953125,Grassland,grass
+2411,130,96.7318725585938,Grassland,grass
+2412,130,93.8976593017578,Grassland,grass
+2413,130,95.5287933349609,Grassland,grass
+2414,130,99.3052978515625,Grassland,grass
+2415,80,101.183540344238,"Tree cover (needle, deciduous)",trees
+2416,80,97.3385543823242,"Tree cover (needle, deciduous)",trees
+2417,80,98.5550842285156,"Tree cover (needle, deciduous)",trees
+2418,50,98.7116088867188,"Tree cover (broadleaf, evergreen)",trees
+2419,50,101.222412109375,"Tree cover (broadleaf, evergreen)",trees
+2420,50,103.164199829102,"Tree cover (broadleaf, evergreen)",trees
+2421,50,108.969940185547,"Tree cover (broadleaf, evergreen)",trees
+2422,50,117.804122924805,"Tree cover (broadleaf, evergreen)",trees
+2423,50,108.120124816895,"Tree cover (broadleaf, evergreen)",trees
+2424,50,107.151374816895,"Tree cover (broadleaf, evergreen)",trees
+2425,130,106.015769958496,Grassland,grass
+2426,130,104.779434204102,Grassland,grass
+2427,130,99.431282043457,Grassland,grass
+2428,130,99.0730819702149,Grassland,grass
+2429,130,91.0044555664063,Grassland,grass
+2430,130,88.2742919921875,Grassland,grass
+2431,130,82.2558364868164,Grassland,grass
+2432,130,88.111068725586,Grassland,grass
+2433,130,57.1969566345215,Grassland,grass
+2456,50,102.840538024902,"Tree cover (broadleaf, evergreen)",trees
+2457,50,101.835418701172,"Tree cover (broadleaf, evergreen)",trees
+2458,50,102.212684631348,"Tree cover (broadleaf, evergreen)",trees
+2459,50,105.649887084961,"Tree cover (broadleaf, evergreen)",trees
+2460,130,98.3190460205078,Grassland,grass
+2461,130,91.4747924804688,Grassland,grass
+2462,130,93.7353973388672,Grassland,grass
+2463,50,105.696823120117,"Tree cover (broadleaf, evergreen)",trees
+2464,50,119.196746826172,"Tree cover (broadleaf, evergreen)",trees
+2465,50,112.11011505127,"Tree cover (broadleaf, evergreen)",trees
+2466,130,100.591125488281,Grassland,grass
+2467,210,18.1669731140137,Water,other
+2468,210,15.9329681396484,Water,other
+2469,210,47.4887428283692,Water,other
+2470,130,75.2487106323242,Grassland,grass
+2471,130,105.515121459961,Grassland,grass
+2472,50,105.494834899902,"Tree cover (broadleaf, evergreen)",trees
+2473,50,94.0523529052734,"Tree cover (broadleaf, evergreen)",trees
+2474,50,90.2072601318359,"Tree cover (broadleaf, evergreen)",trees
+2475,50,112.872756958008,"Tree cover (broadleaf, evergreen)",trees
+2476,50,105.262428283691,"Tree cover (broadleaf, evergreen)",trees
+2477,50,107.33910369873,"Tree cover (broadleaf, evergreen)",trees
+2478,50,108.569122314453,"Tree cover (broadleaf, evergreen)",trees
+2479,50,105.237747192383,"Tree cover (broadleaf, evergreen)",trees
+2480,50,92.9838943481445,"Tree cover (broadleaf, evergreen)",trees
+2481,50,101.572685241699,"Tree cover (broadleaf, evergreen)",trees
+2482,130,107.574371337891,Grassland,grass
+2483,130,106.073173522949,Grassland,grass
+2484,130,104.29118347168,Grassland,grass
+2485,130,99.3692626953125,Grassland,grass
+2486,130,108.464614868164,Grassland,grass
+2487,130,94.3305587768555,Grassland,grass
+2488,130,79.8283843994141,Grassland,grass
+2514,50,100.668701171875,"Tree cover (broadleaf, evergreen)",trees
+2515,50,117.620185852051,"Tree cover (broadleaf, evergreen)",trees
+2516,50,118.179290771484,"Tree cover (broadleaf, evergreen)",trees
+2517,130,100.023559570313,Grassland,grass
+2518,130,103.212547302246,Grassland,grass
+2519,130,96.5469818115234,Grassland,grass
+2520,130,93.3474044799805,Grassland,grass
+2521,130,98.2259979248047,Grassland,grass
+2522,50,110.007102966309,"Tree cover (broadleaf, evergreen)",trees
+2523,50,117.618911743164,"Tree cover (broadleaf, evergreen)",trees
+2524,130,97.4168014526367,Grassland,grass
+2525,210,36.4591369628906,Water,other
+2526,210,0,Water,other
+2527,210,14.4330902099609,Water,other
+2528,80,91.131591796875,"Tree cover (needle, deciduous)",trees
+2529,50,109.46654510498,"Tree cover (broadleaf, evergreen)",trees
+2530,50,109.046775817871,"Tree cover (broadleaf, evergreen)",trees
+2531,130,115.980590820313,Grassland,grass
+2532,130,115.963623046875,Grassland,grass
+2533,50,119.882759094238,"Tree cover (broadleaf, evergreen)",trees
+2534,50,120.151786804199,"Tree cover (broadleaf, evergreen)",trees
+2535,50,114.193260192871,"Tree cover (broadleaf, evergreen)",trees
+2536,50,99.5571899414062,"Tree cover (broadleaf, evergreen)",trees
+2537,50,86.5536956787109,"Tree cover (broadleaf, evergreen)",trees
+2538,50,83.1920013427734,"Tree cover (broadleaf, evergreen)",trees
+2539,130,100.367431640625,Grassland,grass
+2540,130,101.014694213867,Grassland,grass
+2541,130,102.623970031738,Grassland,grass
+2542,130,98.0356140136719,Grassland,grass
+2543,130,112.50691986084,Grassland,grass
+2544,130,114.373428344727,Grassland,grass
+2545,130,102.410202026367,Grassland,grass
+2546,130,67.7455978393555,Grassland,grass
+2571,50,104.781051635742,"Tree cover (broadleaf, evergreen)",trees
+2572,50,106.764106750488,"Tree cover (broadleaf, evergreen)",trees
+2573,50,113.232040405273,"Tree cover (broadleaf, evergreen)",trees
+2574,50,110.757789611816,"Tree cover (broadleaf, evergreen)",trees
+2575,130,96.5448226928711,Grassland,grass
+2576,130,101.319305419922,Grassland,grass
+2577,130,95.1041259765625,Grassland,grass
+2578,130,90.5647964477539,Grassland,grass
+2579,130,94.5799331665039,Grassland,grass
+2580,50,103.94548034668,"Tree cover (broadleaf, evergreen)",trees
+2581,130,113.095581054688,Grassland,grass
+2582,130,103.55786895752,Grassland,grass
+2583,210,18.1240634918213,Water,other
+2584,210,47.2364768981934,Water,other
+2585,80,89.392951965332,"Tree cover (needle, deciduous)",trees
+2586,150,101.777938842773,Sparse vegetation,sparse
+2587,50,97.1278533935547,"Tree cover (broadleaf, evergreen)",trees
+2588,130,115.044868469238,Grassland,grass
+2589,130,114.953079223633,Grassland,grass
+2590,50,118.896560668945,"Tree cover (broadleaf, evergreen)",trees
+2591,50,112.705635070801,"Tree cover (broadleaf, evergreen)",trees
+2592,50,117.888664245605,"Tree cover (broadleaf, evergreen)",trees
+2593,50,101.853797912598,"Tree cover (broadleaf, evergreen)",trees
+2594,50,100.645362854004,"Tree cover (broadleaf, evergreen)",trees
+2595,130,95.5565338134766,Grassland,grass
+2596,130,96.8794250488281,Grassland,grass
+2597,130,96.664291381836,Grassland,grass
+2598,130,96.5582046508789,Grassland,grass
+2599,130,97.089111328125,Grassland,grass
+2600,130,98.6757278442383,Grassland,grass
+2601,130,102.222343444824,Grassland,grass
+2602,130,109.007453918457,Grassland,grass
+2603,80,104.646392822266,"Tree cover (needle, deciduous)",trees
+2604,210,75.7190475463867,Water,other
+2628,50,108.633262634277,"Tree cover (broadleaf, evergreen)",trees
+2629,130,110.607803344727,Grassland,grass
+2630,50,103.663642883301,"Tree cover (broadleaf, evergreen)",trees
+2631,130,102.975944519043,Grassland,grass
+2632,50,98.6004028320313,"Tree cover (broadleaf, evergreen)",trees
+2633,130,97.5490341186524,Grassland,grass
+2634,130,96.0329437255859,Grassland,grass
+2635,130,102.261207580566,Grassland,grass
+2636,130,100.080467224121,Grassland,grass
+2637,50,106.640045166016,"Tree cover (broadleaf, evergreen)",trees
+2638,50,108.466278076172,"Tree cover (broadleaf, evergreen)",trees
+2639,50,105.62963104248,"Tree cover (broadleaf, evergreen)",trees
+2640,50,93.7524566650391,"Tree cover (broadleaf, evergreen)",trees
+2641,130,102.725379943848,Grassland,grass
+2642,50,101.168067932129,"Tree cover (broadleaf, evergreen)",trees
+2643,50,103.919830322266,"Tree cover (broadleaf, evergreen)",trees
+2644,50,104.200798034668,"Tree cover (broadleaf, evergreen)",trees
+2645,50,108.32926940918,"Tree cover (broadleaf, evergreen)",trees
+2646,50,108.405830383301,"Tree cover (broadleaf, evergreen)",trees
+2647,120,115.011825561523,Shrubland,shrub
+2648,50,109.877822875977,"Tree cover (broadleaf, evergreen)",trees
+2649,50,102.80403137207,"Tree cover (broadleaf, evergreen)",trees
+2650,50,104.444129943848,"Tree cover (broadleaf, evergreen)",trees
+2651,130,100.129470825195,Grassland,grass
+2652,50,94.6297607421875,"Tree cover (broadleaf, evergreen)",trees
+2653,50,96.6119384765625,"Tree cover (broadleaf, evergreen)",trees
+2654,130,95.3447341918945,Grassland,grass
+2655,130,91.4839248657227,Grassland,grass
+2656,130,94.4162216186523,Grassland,grass
+2657,130,88.504997253418,Grassland,grass
+2658,130,85.5700149536133,Grassland,grass
+2659,130,83.5168151855469,Grassland,grass
+2660,130,90.3496932983398,Grassland,grass
+2661,130,98.5675659179688,Grassland,grass
+2680,130,67.1173477172852,Grassland,grass
+2681,130,88.0363616943359,Grassland,grass
+2682,130,102.682327270508,Grassland,grass
+2683,130,115.86962890625,Grassland,grass
+2684,130,111.621658325195,Grassland,grass
+2685,130,111.484825134277,Grassland,grass
+2686,50,108.232963562012,"Tree cover (broadleaf, evergreen)",trees
+2687,120,106.093658447266,Shrubland,shrub
+2688,130,108.514282226563,Grassland,grass
+2689,130,107.752212524414,Grassland,grass
+2690,50,95.1912231445313,"Tree cover (broadleaf, evergreen)",trees
+2691,50,94.0040512084961,"Tree cover (broadleaf, evergreen)",trees
+2692,130,101.511901855469,Grassland,grass
+2693,130,100.60929107666,Grassland,grass
+2694,50,102.07300567627,"Tree cover (broadleaf, evergreen)",trees
+2695,130,117.626167297363,Grassland,grass
+2696,120,119.677307128906,Shrubland,shrub
+2697,120,116.008483886719,Shrubland,shrub
+2698,120,105.567642211914,Shrubland,shrub
+2699,50,106.815925598145,"Tree cover (broadleaf, evergreen)",trees
+2700,50,116.015045166016,"Tree cover (broadleaf, evergreen)",trees
+2701,50,120.460159301758,"Tree cover (broadleaf, evergreen)",trees
+2702,50,116.932167053223,"Tree cover (broadleaf, evergreen)",trees
+2703,50,109.455047607422,"Tree cover (broadleaf, evergreen)",trees
+2704,50,107.717163085938,"Tree cover (broadleaf, evergreen)",trees
+2705,50,108.792152404785,"Tree cover (broadleaf, evergreen)",trees
+2706,50,100.175331115723,"Tree cover (broadleaf, evergreen)",trees
+2707,130,99.2811737060547,Grassland,grass
+2708,130,103.389785766602,Grassland,grass
+2709,130,104.874664306641,Grassland,grass
+2710,130,93.4376220703125,Grassland,grass
+2711,130,92.6113967895508,Grassland,grass
+2712,130,88.4160614013672,Grassland,grass
+2713,210,59.1218795776367,Water,other
+2720,130,78.8838577270508,Grassland,grass
+2737,130,86.5429306030273,Grassland,grass
+2738,130,125.164329528809,Grassland,grass
+2739,50,134.989715576172,"Tree cover (broadleaf, evergreen)",trees
+2740,130,129.413024902344,Grassland,grass
+2741,130,118.797065734863,Grassland,grass
+2742,130,112.381118774414,Grassland,grass
+2743,130,104.868370056152,Grassland,grass
+2744,130,105.680671691895,Grassland,grass
+2745,130,110.056610107422,Grassland,grass
+2746,50,108.91731262207,"Tree cover (broadleaf, evergreen)",trees
+2747,50,105.295875549316,"Tree cover (broadleaf, evergreen)",trees
+2748,50,98.4584045410156,"Tree cover (broadleaf, evergreen)",trees
+2749,50,101.82487487793,"Tree cover (broadleaf, evergreen)",trees
+2750,50,105.588836669922,"Tree cover (broadleaf, evergreen)",trees
+2751,50,106.955863952637,"Tree cover (broadleaf, evergreen)",trees
+2752,50,113.65161895752,"Tree cover (broadleaf, evergreen)",trees
+2753,50,119.433746337891,"Tree cover (broadleaf, evergreen)",trees
+2754,120,120.715492248535,Shrubland,shrub
+2755,120,122.366638183594,Shrubland,shrub
+2756,120,122.526145935059,Shrubland,shrub
+2757,50,112.067649841309,"Tree cover (broadleaf, evergreen)",trees
+2758,50,118.785957336426,"Tree cover (broadleaf, evergreen)",trees
+2759,50,112.449371337891,"Tree cover (broadleaf, evergreen)",trees
+2760,120,115.955535888672,Shrubland,shrub
+2761,50,116.434944152832,"Tree cover (broadleaf, evergreen)",trees
+2762,50,114.095855712891,"Tree cover (broadleaf, evergreen)",trees
+2763,50,107.128883361816,"Tree cover (broadleaf, evergreen)",trees
+2764,130,103.986854553223,Grassland,grass
+2765,130,101.462860107422,Grassland,grass
+2766,130,106.256652832031,Grassland,grass
+2767,130,93.2007064819336,Grassland,grass
+2768,130,93.1066436767578,Grassland,grass
+2769,130,77.8855590820313,Grassland,grass
+2778,130,74.7321166992188,Grassland,grass
+2795,130,105.578346252441,Grassland,grass
+2796,130,135.152038574219,Grassland,grass
+2797,50,135.39794921875,"Tree cover (broadleaf, evergreen)",trees
+2798,50,135.090301513672,"Tree cover (broadleaf, evergreen)",trees
+2799,130,118.694839477539,Grassland,grass
+2800,130,103.638473510742,Grassland,grass
+2801,130,103.196067810059,Grassland,grass
+2802,130,109.052444458008,Grassland,grass
+2803,130,112.354820251465,Grassland,grass
+2804,50,117.117515563965,"Tree cover (broadleaf, evergreen)",trees
+2805,50,108.262390136719,"Tree cover (broadleaf, evergreen)",trees
+2806,50,100.752647399902,"Tree cover (broadleaf, evergreen)",trees
+2807,50,99.3420028686523,"Tree cover (broadleaf, evergreen)",trees
+2808,50,100.668640136719,"Tree cover (broadleaf, evergreen)",trees
+2809,130,105.777816772461,Grassland,grass
+2810,50,111.296783447266,"Tree cover (broadleaf, evergreen)",trees
+2811,50,109.80883026123,"Tree cover (broadleaf, evergreen)",trees
+2812,50,115.058616638184,"Tree cover (broadleaf, evergreen)",trees
+2813,200,103.251174926758,Bare,other
+2814,120,115.44563293457,Shrubland,shrub
+2815,120,115.630165100098,Shrubland,shrub
+2816,120,113.003196716309,Shrubland,shrub
+2817,120,106.704460144043,Shrubland,shrub
+2818,120,112.219497680664,Shrubland,shrub
+2819,120,109.252296447754,Shrubland,shrub
+2820,120,111.623390197754,Shrubland,shrub
+2821,50,110.078254699707,"Tree cover (broadleaf, evergreen)",trees
+2822,130,100.643257141113,Grassland,grass
+2823,130,96.421272277832,Grassland,grass
+2824,130,92.1084671020508,Grassland,grass
+2825,130,93.0041351318359,Grassland,grass
+2826,130,82.3696365356445,Grassland,grass
+2854,130,105.687042236328,Grassland,grass
+2855,130,121.195785522461,Grassland,grass
+2856,130,113.229888916016,Grassland,grass
+2857,130,101.423698425293,Grassland,grass
+2858,130,99.0843811035156,Grassland,grass
+2859,130,109.504463195801,Grassland,grass
+2860,130,111.706405639648,Grassland,grass
+2861,120,112.997489929199,Shrubland,shrub
+2862,50,108.281532287598,"Tree cover (broadleaf, evergreen)",trees
+2863,50,105.497085571289,"Tree cover (broadleaf, evergreen)",trees
+2864,50,105.299751281738,"Tree cover (broadleaf, evergreen)",trees
+2865,50,96.8781967163086,"Tree cover (broadleaf, evergreen)",trees
+2866,50,100.309463500977,"Tree cover (broadleaf, evergreen)",trees
+2867,130,109.627075195313,Grassland,grass
+2868,130,112.160316467285,Grassland,grass
+2869,130,108.980682373047,Grassland,grass
+2870,50,106.538696289063,"Tree cover (broadleaf, evergreen)",trees
+2871,50,113.130996704102,"Tree cover (broadleaf, evergreen)",trees
+2872,130,99.8487091064453,Grassland,grass
+2873,120,99.036735534668,Shrubland,shrub
+2874,120,110.501892089844,Shrubland,shrub
+2875,120,105.932800292969,Shrubland,shrub
+2876,130,116.713035583496,Grassland,grass
+2877,120,108.82479095459,Shrubland,shrub
+2878,120,105.380302429199,Shrubland,shrub
+2879,50,100.114196777344,"Tree cover (broadleaf, evergreen)",trees
+2880,130,93.1786041259766,Grassland,grass
+2881,130,89.5415954589844,Grassland,grass
+2882,130,87.5418167114258,Grassland,grass
+2883,130,87.9375610351563,Grassland,grass
+2912,130,92.9897689819336,Grassland,grass
+2913,130,98.7250061035156,Grassland,grass
+2914,130,97.3240127563477,Grassland,grass
+2915,130,94.5722885131836,Grassland,grass
+2916,130,96.2180938720703,Grassland,grass
+2917,130,105.482940673828,Grassland,grass
+2918,120,105.757995605469,Shrubland,shrub
+2919,50,103.814605712891,"Tree cover (broadleaf, evergreen)",trees
+2920,50,100.174613952637,"Tree cover (broadleaf, evergreen)",trees
+2921,50,103.693626403809,"Tree cover (broadleaf, evergreen)",trees
+2922,50,104.188652038574,"Tree cover (broadleaf, evergreen)",trees
+2923,50,104.541206359863,"Tree cover (broadleaf, evergreen)",trees
+2924,130,102.249160766602,Grassland,grass
+2925,130,106.419692993164,Grassland,grass
+2926,130,105.412796020508,Grassland,grass
+2927,130,112.392143249512,Grassland,grass
+2928,130,107.189865112305,Grassland,grass
+2929,130,107.554420471191,Grassland,grass
+2930,130,110.46826171875,Grassland,grass
+2931,130,112.023834228516,Grassland,grass
+2932,130,100.671714782715,Grassland,grass
+2933,130,101.640022277832,Grassland,grass
+2934,130,112.316802978516,Grassland,grass
+2935,120,110.566841125488,Shrubland,shrub
+2936,120,104.488670349121,Shrubland,shrub
+2937,130,94.2020950317383,Grassland,grass
+2938,130,94.8695678710938,Grassland,grass
+2939,130,92.4542999267578,Grassland,grass
+2940,130,88.8512191772461,Grassland,grass
+2941,130,79.9164352416992,Grassland,grass
+2942,210,29.5522346496582,Water,other
+2975,130,100.357666015625,Grassland,grass
+2976,130,109.326553344727,Grassland,grass
+2977,50,106.444976806641,"Tree cover (broadleaf, evergreen)",trees
+2978,50,106.218040466309,"Tree cover (broadleaf, evergreen)",trees
+2979,50,98.3384323120117,"Tree cover (broadleaf, evergreen)",trees
+2980,50,99.8797378540039,"Tree cover (broadleaf, evergreen)",trees
+2981,50,101.427429199219,"Tree cover (broadleaf, evergreen)",trees
+2982,50,96.5168685913086,"Tree cover (broadleaf, evergreen)",trees
+2983,130,98.2024154663086,Grassland,grass
+2984,130,101.075561523438,Grassland,grass
+2985,130,99.9000854492188,Grassland,grass
+2986,130,102.249557495117,Grassland,grass
+2987,130,98.0085296630859,Grassland,grass
+2988,130,100.861114501953,Grassland,grass
+2989,130,97.5752868652344,Grassland,grass
+2990,130,97.2100143432617,Grassland,grass
+2991,130,102.267250061035,Grassland,grass
+2992,50,123.8466796875,"Tree cover (broadleaf, evergreen)",trees
+2993,50,123.793014526367,"Tree cover (broadleaf, evergreen)",trees
+2994,50,112.029968261719,"Tree cover (broadleaf, evergreen)",trees
+2995,130,93.7978973388672,Grassland,grass
+2996,130,91.6899871826172,Grassland,grass
+2997,130,86.6836242675781,Grassland,grass
+2998,130,83.2955322265625,Grassland,grass
+2999,120,66.1107025146484,Shrubland,shrub
+3000,120,68.5960540771484,Shrubland,shrub
+3034,130,102.270446777344,Grassland,grass
+3035,130,98.7781524658203,Grassland,grass
+3036,130,97.055419921875,Grassland,grass
+3037,130,96.1930160522461,Grassland,grass
+3038,50,99.2264022827148,"Tree cover (broadleaf, evergreen)",trees
+3039,50,101.221809387207,"Tree cover (broadleaf, evergreen)",trees
+3040,50,93.8040313720703,"Tree cover (broadleaf, evergreen)",trees
+3041,50,94.5289916992188,"Tree cover (broadleaf, evergreen)",trees
+3042,130,94.4295120239258,Grassland,grass
+3043,130,98.0920104980469,Grassland,grass
+3044,130,97.7038497924805,Grassland,grass
+3045,130,98.8942184448242,Grassland,grass
+3046,130,104.275810241699,Grassland,grass
+3047,130,98.2941665649414,Grassland,grass
+3048,130,95.1323394775391,Grassland,grass
+3049,130,107.987197875977,Grassland,grass
+3050,50,128.945770263672,"Tree cover (broadleaf, evergreen)",trees
+3051,50,122.417755126953,"Tree cover (broadleaf, evergreen)",trees
+3052,50,107.073944091797,"Tree cover (broadleaf, evergreen)",trees
+3053,130,96.4963684082031,Grassland,grass
+3054,130,93.671760559082,Grassland,grass
+3055,130,88.3374633789063,Grassland,grass
+3056,130,84.7564544677734,Grassland,grass
+3057,130,84.3552322387695,Grassland,grass
+3058,130,80.2742919921875,Grassland,grass
+3059,130,66.8758926391602,Grassland,grass
+3093,130,90.4493865966797,Grassland,grass
+3094,130,93.5632400512695,Grassland,grass
+3095,130,93.2011260986328,Grassland,grass
+3096,130,96.2657699584961,Grassland,grass
+3097,130,98.3696594238281,Grassland,grass
+3098,100,90.629997253418,Mosaic (tree and shrub),mosaic
+3099,130,89.0766677856445,Grassland,grass
+3100,130,89.112548828125,Grassland,grass
+3101,130,90.3517532348633,Grassland,grass
+3102,130,91.2576446533203,Grassland,grass
+3103,130,96.6332321166992,Grassland,grass
+3104,130,97.9307250976563,Grassland,grass
+3105,130,97.2970657348633,Grassland,grass
+3106,130,101.816680908203,Grassland,grass
+3107,130,115.768211364746,Grassland,grass
+3108,50,137.163986206055,"Tree cover (broadleaf, evergreen)",trees
+3109,130,111.708145141602,Grassland,grass
+3110,130,100.5068359375,Grassland,grass
+3111,130,93.2462692260742,Grassland,grass
+3112,130,93.3644714355469,Grassland,grass
+3113,130,90.0655746459961,Grassland,grass
+3114,130,80.8597640991211,Grassland,grass
+3115,130,85.5183258056641,Grassland,grass
+3116,130,92.5418701171875,Grassland,grass
+3117,130,47.2644653320313,Grassland,grass
+3155,130,67.8833389282227,Grassland,grass
+3156,130,85.9702224731445,Grassland,grass
+3157,130,92.3399353027344,Grassland,grass
+3158,130,94.1552124023437,Grassland,grass
+3159,130,90.6382141113281,Grassland,grass
+3160,130,92.8317031860352,Grassland,grass
+3161,130,94.7441558837891,Grassland,grass
+3162,130,98.37255859375,Grassland,grass
+3163,130,105.925964355469,Grassland,grass
+3164,130,112.959915161133,Grassland,grass
+3165,50,125.257019042969,"Tree cover (broadleaf, evergreen)",trees
+3166,50,134.193023681641,"Tree cover (broadleaf, evergreen)",trees
+3167,130,106.438446044922,Grassland,grass
+3168,130,96.5638885498047,Grassland,grass
+3169,130,94.1889572143555,Grassland,grass
+3170,130,93.8356018066406,Grassland,grass
+3171,130,87.5724182128906,Grassland,grass
+3172,130,89.5813140869141,Grassland,grass
+3173,130,96.8619842529297,Grassland,grass
+3174,130,87.1241226196289,Grassland,grass
+3214,130,77.9775543212891,Grassland,grass
+3215,130,88.5496139526367,Grassland,grass
+3216,130,93.8874664306641,Grassland,grass
+3217,130,94.4375152587891,Grassland,grass
+3218,130,95.2971572875977,Grassland,grass
+3219,130,100.633460998535,Grassland,grass
+3220,130,105.890487670898,Grassland,grass
+3221,130,105.547706604004,Grassland,grass
+3222,130,108.051414489746,Grassland,grass
+3223,130,123.783988952637,Grassland,grass
+3224,50,121.088005065918,"Tree cover (broadleaf, evergreen)",trees
+3225,130,107.36181640625,Grassland,grass
+3226,130,97.2772674560547,Grassland,grass
+3227,130,94.1985092163086,Grassland,grass
+3228,130,90.6836166381836,Grassland,grass
+3229,130,92.1427383422852,Grassland,grass
+3230,130,92.376838684082,Grassland,grass
+3231,130,92.3296508789062,Grassland,grass
+3232,130,57.1981506347656,Grassland,grass
+3273,130,81.2803268432617,Grassland,grass
+3274,130,95.1648941040039,Grassland,grass
+3275,130,90.9051971435547,Grassland,grass
+3276,130,93.4060211181641,Grassland,grass
+3277,130,101.360206604004,Grassland,grass
+3278,130,107.235336303711,Grassland,grass
+3279,130,103.683876037598,Grassland,grass
+3280,130,110.505325317383,Grassland,grass
+3281,120,124.747123718262,Shrubland,shrub
+3282,130,107.145202636719,Grassland,grass
+3283,130,107.861518859863,Grassland,grass
+3284,130,100.921463012695,Grassland,grass
+3285,130,95.0244674682617,Grassland,grass
+3286,130,92.4242935180664,Grassland,grass
+3287,130,93.0303344726562,Grassland,grass
+3288,130,95.2518768310547,Grassland,grass
+3289,130,94.7260971069336,Grassland,grass
+3290,130,83.9990386962891,Grassland,grass
+3331,130,79.1302337646484,Grassland,grass
+3332,130,90.1236038208008,Grassland,grass
+3333,130,90.3223724365234,Grassland,grass
+3334,130,90.4989471435547,Grassland,grass
+3335,130,82.915397644043,Grassland,grass
+3336,130,98.5839996337891,Grassland,grass
+3337,130,103.504692077637,Grassland,grass
+3338,120,119.188323974609,Shrubland,shrub
+3339,130,103.452949523926,Grassland,grass
+3340,130,99.0468368530274,Grassland,grass
+3341,130,99.627326965332,Grassland,grass
+3342,130,105.350769042969,Grassland,grass
+3343,130,99.1655349731445,Grassland,grass
+3344,130,89.6359786987305,Grassland,grass
+3345,130,91.4485549926758,Grassland,grass
+3346,130,82.2422943115234,Grassland,grass
+3390,130,92.6346130371094,Grassland,grass
+3391,130,94.8020477294922,Grassland,grass
+3392,130,90.3925857543945,Grassland,grass
+3393,130,69.9634017944336,Grassland,grass
+3394,130,97.2742767333984,Grassland,grass
+3395,130,103.050483703613,Grassland,grass
+3396,130,100.962097167969,Grassland,grass
+3397,130,105.054374694824,Grassland,grass
+3398,130,107.057029724121,Grassland,grass
+3399,130,104.921028137207,Grassland,grass
+3400,130,107.024940490723,Grassland,grass
+3401,130,102.363830566406,Grassland,grass
+3402,130,90.3351821899414,Grassland,grass
+3403,130,93.9076309204102,Grassland,grass
+3448,130,89.7305145263672,Grassland,grass
+3449,130,94.593879699707,Grassland,grass
+3450,130,98.9821014404297,Grassland,grass
+3451,130,93.4067764282227,Grassland,grass
+3452,130,113.551803588867,Grassland,grass
+3453,130,107.793479919434,Grassland,grass
+3454,130,105.936515808105,Grassland,grass
+3455,130,113.116508483887,Grassland,grass
+3456,130,123.531608581543,Grassland,grass
+3457,130,103.995094299316,Grassland,grass
+3458,130,97.7744064331055,Grassland,grass
+3459,130,98.7624969482422,Grassland,grass
+3460,130,97.1839752197266,Grassland,grass
+3461,130,101.587364196777,Grassland,grass
+3506,130,93.1032180786133,Grassland,grass
+3507,130,94.8914794921875,Grassland,grass
+3508,130,115.527389526367,Grassland,grass
+3509,130,128.19807434082,Grassland,grass
+3510,130,114.968475341797,Grassland,grass
+3511,130,111.360191345215,Grassland,grass
+3512,130,109.960273742676,Grassland,grass
+3513,130,123.027900695801,Grassland,grass
+3514,130,113.895721435547,Grassland,grass
+3515,130,100.938354492188,Grassland,grass
+3516,130,94.7884521484375,Grassland,grass
+3517,130,98.1085433959961,Grassland,grass
+3519,130,104.796737670898,Grassland,grass
+3564,130,95.700569152832,Grassland,grass
+3565,130,118.872871398926,Grassland,grass
+3566,50,127.502716064453,"Tree cover (broadleaf, evergreen)",trees
+3567,130,124.68669128418,Grassland,grass
+3568,130,116.148490905762,Grassland,grass
+3569,130,109.296142578125,Grassland,grass
+3570,130,108.853240966797,Grassland,grass
+3571,130,112.703834533691,Grassland,grass
+3572,130,105.243255615234,Grassland,grass
+3573,130,100.826675415039,Grassland,grass
+3574,130,94.5684814453125,Grassland,grass
+3575,130,79.1104431152344,Grassland,grass
+3576,130,48.393726348877,Grassland,grass
+3620,210,35.0748596191406,Water,other
+3621,130,108.117889404297,Grassland,grass
+3622,50,125.796379089355,"Tree cover (broadleaf, evergreen)",trees
+3623,50,131.999176025391,"Tree cover (broadleaf, evergreen)",trees
+3624,50,130.857955932617,"Tree cover (broadleaf, evergreen)",trees
+3625,50,120.372375488281,"Tree cover (broadleaf, evergreen)",trees
+3626,130,105.45255279541,Grassland,grass
+3627,130,104.218650817871,Grassland,grass
+3628,130,109.369064331055,Grassland,grass
+3629,130,109.392166137695,Grassland,grass
+3630,130,104.194145202637,Grassland,grass
+3631,130,104.276924133301,Grassland,grass
+3632,130,70.0825347900391,Grassland,grass
+3678,130,84.5307998657227,Grassland,grass
+3679,50,119.946929931641,"Tree cover (broadleaf, evergreen)",trees
+3680,50,130.854278564453,"Tree cover (broadleaf, evergreen)",trees
+3681,50,134.480239868164,"Tree cover (broadleaf, evergreen)",trees
+3682,50,123.360565185547,"Tree cover (broadleaf, evergreen)",trees
+3683,130,107.418632507324,Grassland,grass
+3684,130,106.684463500977,Grassland,grass
+3685,130,100.676223754883,Grassland,grass
+3686,130,103.724136352539,Grassland,grass
+3687,130,99.5067825317383,Grassland,grass
+3688,130,98.7267074584961,Grassland,grass
+3689,120,98.6244812011719,Shrubland,shrub
+3735,190,69.8498153686523,Urban,urban
+3736,50,117.931793212891,"Tree cover (broadleaf, evergreen)",trees
+3737,50,129.297073364258,"Tree cover (broadleaf, evergreen)",trees
+3738,50,131.955017089844,"Tree cover (broadleaf, evergreen)",trees
+3739,50,128.840347290039,"Tree cover (broadleaf, evergreen)",trees
+3740,130,110.687347412109,Grassland,grass
+3741,130,93.2879409790039,Grassland,grass
+3742,130,93.4711074829102,Grassland,grass
+3743,130,97.6703796386719,Grassland,grass
+3744,130,98.6995849609375,Grassland,grass
+3745,130,96.898666381836,Grassland,grass
+3746,130,97.8656921386719,Grassland,grass
+3747,130,63.5491638183594,Grassland,grass
+3793,50,122.082473754883,"Tree cover (broadleaf, evergreen)",trees
+3794,50,126.237174987793,"Tree cover (broadleaf, evergreen)",trees
+3795,50,128.03564453125,"Tree cover (broadleaf, evergreen)",trees
+3796,50,126.865425109863,"Tree cover (broadleaf, evergreen)",trees
+3797,50,112.726821899414,"Tree cover (broadleaf, evergreen)",trees
+3798,130,94.2477416992188,Grassland,grass
+3799,130,93.1199645996094,Grassland,grass
+3800,130,95.8704681396484,Grassland,grass
+3801,130,99.1108016967774,Grassland,grass
+3802,130,103.733070373535,Grassland,grass
+3803,50,99.5588607788086,"Tree cover (broadleaf, evergreen)",trees
+3850,130,92.3464202880859,Grassland,grass
+3851,130,110.800842285156,Grassland,grass
+3852,50,114.148056030273,"Tree cover (broadleaf, evergreen)",trees
+3853,50,124.955062866211,"Tree cover (broadleaf, evergreen)",trees
+3854,130,107.773284912109,Grassland,grass
+3855,130,98.5912857055664,Grassland,grass
+3856,130,94.5300674438477,Grassland,grass
+3857,130,93.5834579467774,Grassland,grass
+3858,130,100.791885375977,Grassland,grass
+3859,130,99.1305313110352,Grassland,grass
+3860,130,103.688911437988,Grassland,grass
+3861,130,99.3994522094727,Grassland,grass
+3906,130,80.5234832763672,Grassland,grass
+3907,130,89.9251480102539,Grassland,grass
+3908,190,78.4222869873047,Urban,urban
+3909,50,119.620063781738,"Tree cover (broadleaf, evergreen)",trees
+3910,50,125.893104553223,"Tree cover (broadleaf, evergreen)",trees
+3911,210,71.1011734008789,Water,other
+3912,130,75.5303573608398,Grassland,grass
+3913,130,96.3593063354492,Grassland,grass
+3914,130,91.6597900390625,Grassland,grass
+3915,130,95.6609497070312,Grassland,grass
+3916,130,98.7458114624024,Grassland,grass
+3917,130,102.97713470459,Grassland,grass
+3918,130,103.003227233887,Grassland,grass
+3964,120,108.556610107422,Shrubland,shrub
+3966,50,92.7768249511719,"Tree cover (broadleaf, evergreen)",trees
+3967,50,126.866905212402,"Tree cover (broadleaf, evergreen)",trees
+3968,50,114.935577392578,"Tree cover (broadleaf, evergreen)",trees
+3969,130,101.708839416504,Grassland,grass
+3970,130,109.23649597168,Grassland,grass
+3971,130,113.082809448242,Grassland,grass
+3972,130,101.331527709961,Grassland,grass
+3973,130,97.1512222290039,Grassland,grass
+3974,120,97.4701461791992,Shrubland,shrub
+3975,120,106.38744354248,Shrubland,shrub
+4025,50,77.0260467529297,"Tree cover (broadleaf, evergreen)",trees
+4026,210,43.1764678955078,Water,other
+4027,130,78.9705123901367,Grassland,grass
+4028,50,117.976783752441,"Tree cover (broadleaf, evergreen)",trees
+4029,120,119.626014709473,Shrubland,shrub
+4030,130,100.218856811523,Grassland,grass
+4031,120,96.8988189697266,Shrubland,shrub
+4033,120,97.9628143310547,Shrubland,shrub
+4086,50,115.077178955078,"Tree cover (broadleaf, evergreen)",trees
+4087,120,102.048759460449,Shrubland,shrub
+4088,120,103.871391296387,Shrubland,shrub
